@@ -4,8 +4,8 @@
 
 The FDA Data Mining Application is a desktop application developed for Celestica Inc. that takes a company name (firm name on the openFDA database), retrieves information regarding the products made by the company and the sites at which they are made. 
   
-  *Site information includes name, address, registration and FEI numbers, U.S. agent or official correspondent, and total numbers of the different classifications of products made there. 
-  *Product information includes description, activity type, code, class, and regulation number.
+ * Site information includes name, address, registration and FEI numbers, U.S. agent or official correspondent, and total numbers of the different classifications of products made there. 
+ * Product information includes description, activity type, code, class, and regulation number.
 
 This information is used to generate a report in excel format. Specific instructions given to Celestica employees using the program are detailed in the "FDA Data Mining Tool User Manual".
 
